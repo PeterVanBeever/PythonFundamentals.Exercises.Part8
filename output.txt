@@ -1,0 +1,12 @@
+./test_file_reader.py
+./tree.py
+./.DS_Store
+./file_reader.py
+./my_awesome_file.txt
+./__pycache__/
+./README.md
+./.gitignore
+./.git/
+./.vscode/
+./output.txt
+./locked_out_file.txt
